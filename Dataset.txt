@@ -1,0 +1,3 @@
+Crypto compare API    -    https://min-api.cryptocompare.com/
+
+
